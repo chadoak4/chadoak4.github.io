@@ -1,1 +1,5 @@
-# chadoak4.github.io
+# portfolio
+
+This is my portfolio. 
+
+Uses HTML, CSS, Javascript, Bootstrap. 
